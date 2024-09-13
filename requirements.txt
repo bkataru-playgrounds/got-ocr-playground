@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+megfile
+
+tiktoken
+cairosvg 
+verovio 
+opencv-python
+
+accelerate
